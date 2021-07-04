@@ -18,7 +18,7 @@ Adafruit_HMC5883_Unified mag = Adafruit_HMC5883_Unified(12345);
 
 // change this config
 const char* ssid = "Agung 6";
-const char* password = "himalaya321";
+const char* password = "gerhana86";
 
 char forward[] = "forward";
 char backward[] = "backward";
